@@ -1,0 +1,9 @@
+# .gitignore's for each task (project)
+# is placed IN that project
+# e.g.: there are .gitignore for lab1 and lab2 separated 
+
+
+
+
+#my custom
+lab_example/
